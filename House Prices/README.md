@@ -75,7 +75,7 @@ The models were evaluated using the following metrics:
 
 The performance metrics for various models are summarized below:
 
-  ![Results](image-3.png)
+  ![Result](image.png)
 
 
 ## Conclusion
